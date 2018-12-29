@@ -23,7 +23,7 @@ MCAMC registration opens January 2, 2019
 
 ## What is MCAMC?
 
-MCAMC brings an exciting new type of math competition to the middle school audience - one that involves working together as a team with your friends. In contrast most other competitions that only involve working independently, get ready for a day filled with collaboration and action! 
+MCAMC brings an exciting new type of math competition to the middle school audience - one that involves working together as a team with your friends. In contrast to most other competitions that only involve working independently, get ready for a day filled with collaboration and action! 
 
 ## Important Dates
 
@@ -149,26 +149,6 @@ Grade 9 students *may not* participate. Students grade 5 and under *may* partici
 {: .answer}
 Yes! Any team from anywhere may participate. However, if a student's school is participating in MCAMC, then the student should register with their school.
 
-### Day of the Competition
-
-{: .question}
-**What should I bring?**  
-
-{: .answer}
-Just a writing utensil is good! We will provide scrap paper and anything else you might need. Calculators, protractors, and other aids are not permitted. We will regularly announce the time, but if you wish, a (non-smart) watch is also permitted.
-
-{: .question}
-**Can parents and teachers stay?**  
-
-{: .answer}
-Due to space limitations, up to 1 adult per team can stay. We encourage at least 1 adult per organization/school to stay. 
-
-{: .question}
-**Where is parking? Where is the drop-off location?**  
-
-{: .answer}
-Our school is located at 100 Technology Drive, Edison, NJ. Refering to [this map](https://www.middlesexcc.edu/campus-map/) of Middlesex County College, our high school is building AC, located on the western side of campus. Parking is available in Lots 1 and 2 (not 1B). If you are not parking, students may be dropped off directly in front of our school (building AC). For reference, our building has a tall American flag in front.
-
 ### Payment
 
 {: .question}
@@ -194,6 +174,26 @@ Pizza can be preordered at $12 per 18-inch pie. If you do not wish to eat pizza,
 
 {: .answer}
 Yes! T-shirts are available for $12. You can check out this year's design [here](TODO). T-shirts must be preordered when registering and will not be sold the day of the competition.
+
+### Day of the Competition
+
+{: .question}
+**What do students need to bring?**  
+
+{: .answer}
+Just a writing utensil! We will provide scrap paper and anything else you might need. Calculators, protractors, and other aids are not permitted. We will regularly announce the time, but if you wish, a (non-smart) watch is also permitted.
+
+{: .question}
+**Can parents and teachers stay?**  
+
+{: .answer}
+Due to space limitations, up to 1 adult per team can stay. We encourage at least 1 adult per organization/school to stay. 
+
+{: .question}
+**Where is parking? Where is the drop-off location?**  
+
+{: .answer}
+Our school is located at 100 Technology Drive, Edison, NJ. Refering to [this map](https://www.middlesexcc.edu/campus-map/) of Middlesex County College, our high school is building AC, located on the western side of campus. Parking is available in Lots 1 and 2 (not 1B). If you are not parking, students may be dropped off directly in front of our school (building AC). For reference, our building has a tall American flag in front.
 
 ### Miscellaneous
 
