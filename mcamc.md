@@ -167,14 +167,14 @@ Both individual awards and team awards will be given. Please stay tuned for deta
   <div class="row">
     <div class="column">
       <div class="img">
-      <img src="images/glenn.jpg" alt="Glenn" class="picture">
+      <img src="images/glenn-sun.jpg" alt="Glenn" class="picture">
       </div><div class="description">
         <div class="name">Glenn Sun</div>
         <div class="position">Director, Logistics and Web</div>
       </div>
     </div><div class="column">
       <div class="img">
-      <img src="images/kevin.jpg" alt="Kevin" class="picture">
+      <img src="images/kevin-tang.jpg" alt="Kevin" class="picture">
       </div><div class="description">
         <div class="name">Kevin Tang</div>
         <div class="position">Director, Logistics and Web</div>
