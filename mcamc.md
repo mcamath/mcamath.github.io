@@ -161,6 +161,67 @@ Both individual awards and team awards will be given. Please stay tuned for deta
   </style>
 </div>
 
+## Meet the Team
+<div class="profiles">
+  <br>
+  <div class="row">
+    <div class="column">
+      <div class="img">
+      <img src="images/glenn.jpg" alt="Glenn" class="picture">
+      </div><div class="description">
+        <div class="name">Glenn Sun</div>
+        <div class="position">Director, Logistics and Web</div>
+      </div>
+    </div><div class="column">
+      <div class="img">
+      <img src="images/kevin.jpg" alt="Kevin" class="picture">
+      </div><div class="description">
+        <div class="name">Kevin Tang</div>
+        <div class="position">Director, Logistics and Web</div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="column">
+      <div class="img">
+      <img src="images/pramod-mitikiri.jpg" alt="Pramod" class="picture">
+      </div><div class="description">
+        <div class="name">Pramod Mitikiri</div>
+        <div class="position">Director, Problem Writing</div>
+      </div>
+    </div>
+  </div>
+  <style>
+    .picture{
+      max-width:100%;
+      border-radius:50%;
+    }
+    .position{
+      font-size: calc(8px + (12 - 8) * ((100vw - 300px) / (1600 - 300)));
+    }
+    .name{
+      font-weight:bold;
+      font-size: calc(12px + (18 - 12) * ((100vw - 300px) / (1600 - 300)))
+    }
+    .description{
+      display:table-cell;
+      vertical-align:middle;
+      padding-left:5%
+    }
+    .row{
+    }
+    .img{
+      width:50%;
+      display:table-cell;
+    }
+    .column{
+      width: 50%;
+      display:inline-table;
+    }
+  </style>
+</div>
+
 ## FAQ
 <div class="cwrapper">
   <a href="javascript:expandAll()" class="btn-grey">Expand All</a>
