@@ -14,7 +14,7 @@ meta: |
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 ---
-<button id="authorize_button" style="display: none;">Authorize</button>
+<button id="authorize_button" style="display: inline;">Authorize</button>
 <button id="signout_button" style="display: none;">Sign Out</button>
 <div class="cwrapper">
 <div id="live-table" class="mcamc-table" style="float: left"></div>
