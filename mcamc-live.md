@@ -127,7 +127,7 @@ meta: |
       function listMajors() {
         gapi.client.sheets.spreadsheets.values.get({
           spreadsheetId: '17oX1WsQa5oSJfoEinkW8ZTIwkPDkF5mQI_s3LevkeLc',
-          range: 'Data!2:36',
+          range: 'Data!2:37',
         }).then(function(response) {
           var range = response.result;
           if (range.values.length > 0) {
