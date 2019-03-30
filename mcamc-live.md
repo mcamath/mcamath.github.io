@@ -14,6 +14,7 @@ meta: |
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 ---
+<div id="content"></div>
 <button id="authorize_button" style="display: inline;">Authorize</button>
 <button id="signout_button" style="display: inline;">Sign Out</button>
 <div class="cwrapper">
