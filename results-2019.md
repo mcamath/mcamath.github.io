@@ -3,7 +3,8 @@ layout: default
 title: MCAMC Results 2019
 permalink: /mcamc/results-2019/
 ---
-<pre style="word-wrap: break-word; white-space: pre-wrap;">Team ID   Indiv Avg Team      Live      Overall
+## MCAMC Results 2019
+<pre style="word-wrap: break-word; white-space: pre-wrap; font-family: monospace;">Team ID   Indiv Avg Team      Live      Overall
 101       9.45      12.95     68        133.94
 102       15.34     14.43     92        177.85
 103       15.28     6.00      75        130.44
