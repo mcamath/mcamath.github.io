@@ -48,7 +48,7 @@ MCAMC brings an exciting new type of math competition to the middle school audie
   </tr>
   <tr>
     <td>Payment Received By</td>
-    <td>March 21, 2020</td>
+    <td>March 20, 2020</td>
   </tr>
   <tr>
     <td>Competition Date</td>
