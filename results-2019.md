@@ -3,7 +3,26 @@ layout: default
 title: MCAMC Results 2019
 permalink: /mcamc/results-2019/
 ---
-## MCAMC Results 2019
+## Photos from MCAMC 2019
+
+Photos from last year's competition can be found [here.](https://photos.app.goo.gl/UGnHDJyqJyXEphAo9)
+<div width="100%" padding-top="75%">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/186420391@N05/albums/72157712646773777" title="MCAMC 2019 Participants - Release"><img src="https://live.staticflickr.com/65535/49377814766_31c579086b_k.jpg" width="100%" alt="MCAMC 2019 Participants - Release"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+## MCAMC 2019 Tests
+[Individual Round](/pdf/MCAMC_2019_Individual.pdf)
+
+[Team Round](/pdf/MCAMC_2019_Team.pdf)
+
+[Live Round](/pdf/MCAMC_2019_Live.pdf)
+
+[Answers]()
+
+## MCAMC 2019 Results
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwwefFir6Rl8wdDYr-s3hHGMKpOE1O_GzfjF1_cZl9ODLL9Jm1r7b_5_uJGhMmSEfG0eyzwyXFRUkQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br>
 <pre style="word-wrap: break-word; white-space: pre-wrap; font-family: monospace;">Team ID   Indiv Avg Team      Live      Overall
 101       9.45      12.95     68        133.94
 102       15.34     14.43     92        177.85

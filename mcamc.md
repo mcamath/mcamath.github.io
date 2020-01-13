@@ -21,7 +21,7 @@ meta: |
   <div class="main-banner-overlay">
     <h1 class="main-banner-title"><a href="/mcamc">Middlesex County Academy Math Competition</a></h1>
     <div class="banner-btn-cont">
-      <a href="javascript:null()" class="btn-grey">Registration Closed!</a>
+      <a href="javascript:null()" class="btn-grey">Registration Opens Soon!</a>
     </div>
   </div>
   </div>
@@ -32,17 +32,7 @@ meta: |
 MCAMC brings an exciting new type of math competition to the middle school audience — one that involves working together as a team with your friends. In contrast to other competitions that only involve working independently, get ready for a day filled with collaboration and action! 
 
 ## Recent Updates
-**March 31, 2019:** Full results for all teams and individuals are now available [here](https://www.mcamath.com/mcamc/results-2019/).
-
-**March 30, 2019:** Thanks everyone for coming! View the results below:
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwwefFir6Rl8wdDYr-s3hHGMKpOE1O_GzfjF1_cZl9ODLL9Jm1r7b_5_uJGhMmSEfG0eyzwyXFRUkQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="1440" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-**March 10, 2019:** Registration deadline has been extended to March 15th!
-
-**February 2, 2019:** Sample questions are released! Please scroll down the Sample Questions section to try them.
-
-**February 1, 2019:** We apologize for the delay in releasing sample questions. Sample questions will be released at 4PM EST on February 2, 2019.
-
+**March 31, 2019:** Full exams and results for all teams and individuals from MCAMC 2019 are now available [here](/mcamc/results-2019/).
 
 ## Important Dates
 
@@ -50,27 +40,23 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 <table>
   <tr>
     <td>Registration Opens</td>
-    <td>January 3, 2019</td>
-  </tr>
-  <tr>
-    <td>Sample Questions Released</td>
-    <td>January 31, 2019</td>
+    <td>January 15, 2020</td>
   </tr>
   <tr>
     <td>Registration Closes</td>
-    <td>March 15, 2019</td>
+    <td>March 14, 2020</td>
   </tr>
   <tr>
     <td>Payment Received By</td>
-    <td>March 22, 2019</td>
+    <td>March 21, 2020</td>
   </tr>
   <tr>
     <td>Competition Date</td>
-    <td>March 30, 2019</td>
+    <td>April 4, 2020</td>
   </tr>
   <tr>
     <td>Full Results Uploaded</td>
-    <td>March 31, 2019</td>
+    <td>April 5, 2020</td>
   </tr>
 </table>
 </div>
@@ -80,11 +66,11 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 <div class="mcamc-table">
 <table>
   <tr>
-    <td>9:00 - 9:15</td>
+    <td>8:30 - 9:15</td>
     <td>Check In</td>
   </tr>
   <tr>
-    <td>9:00 - 9:15</td>
+    <td>8:30 - 9:15</td>
     <td>Individual Team Matching</td>
   </tr>
   <tr>
@@ -97,14 +83,14 @@ MCAMC brings an exciting new type of math competition to the middle school audie
   </tr>
   <tr>
     <td>11:30 - 12:20</td>
-    <td>Lunch</td>
+    <td>Lunch/Activities</td>
   </tr>
   <tr>
-    <td>12:20 - 1:20</td>
+    <td>12:30 - 1:30</td>
     <td>Live Round</td>
   </tr>
   <tr>
-    <td>1:30 - 2:00</td>
+    <td>1:45 - 2:15</td>
     <td>Awards Ceremony</td>
   </tr>
 </table>

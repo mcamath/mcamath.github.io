@@ -22,10 +22,11 @@ layout: default
 	<a href="/mcamc"><img src="/images/mcamc-bkg-large.svg" class="main-banner-img"></a>
 	<div class="main-banner-overlay">
 		<h1 class="main-banner-title"><a href="/mcamc">Middlesex County Academy Math Competition</a></h1>
-		<p class="main-banner-text">Saturday, March 30, 2019</p>
+		<p class="main-banner-text">Saturday, April 4, 2020</p>
 		<p class="main-banner-text">a team-based competition open to all students in grades 6-8</p>
 		<div class="banner-btn-cont">
 			<a href="/mcamc" class="banner-btn">Learn More</a>
+			<!-- <a href="/mcamc/register" class="banner-btn-flair">Register Now!</a> -->
 		</div>
 	</div>
 	</div>
