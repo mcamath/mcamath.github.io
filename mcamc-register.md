@@ -3,6 +3,7 @@ layout: default
 title: MCAMC Registration
 permalink: /mcamc/register
 ---
+## MCAMC Registration
 
 ### I am registering as a/an...
 
@@ -25,9 +26,11 @@ function reg(type) {
   if (!choiceMade) {
     if (type === 0) {
       Cognito.load("forms", { id: "3" });
+      Cognito.resize();
     }
     if (type === 1) {
       Cognito.load("forms", { id: "4" });
+      Cognito.resize();
     }
     choiceMade = true;
   }
