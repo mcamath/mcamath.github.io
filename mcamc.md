@@ -21,7 +21,7 @@ meta: |
   <div class="main-banner-overlay">
     <h1 class="main-banner-title"><a href="/mcamc">Middlesex County Academy Math Competition</a></h1>
     <div class="banner-btn-cont">
-      <a href="javascript:null()" class="btn-grey">Registration Opens Soon!</a>
+      <a href="/mcamc/register" class="banner-btn-flair">Register Now!</a>
     </div>
   </div>
   </div>
@@ -229,7 +229,7 @@ Pizza can be preordered at <span>$</span>12 per large (14-inch) pie. Schools and
 **Are there T-shirts?**  
 
 {: .answer}
-Yes! T-shirts are available for $12. This year's design will be uploaded shortly. T-shirts must be preordered when registering and will not be sold the day of the competition.
+Yes! T-shirts are available for $12 if preordered and $15 if bought at the competition. This year's design will be uploaded shortly. We recommend you preorder your T-shirts when registering as not many will be sold the day of the competition.
 
 ### Miscellaneous
 

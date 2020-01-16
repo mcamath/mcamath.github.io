@@ -26,7 +26,7 @@ layout: default
 		<p class="main-banner-text">a team-based competition open to all students in grades 6-8</p>
 		<div class="banner-btn-cont">
 			<a href="/mcamc" class="banner-btn">Learn More</a>
-			<!-- <a href="/mcamc/register" class="banner-btn-flair">Register Now!</a> -->
+			<a href="/mcamc/register" class="banner-btn-flair">Register Now!</a>
 		</div>
 	</div>
 	</div>

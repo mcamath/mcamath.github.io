@@ -5,7 +5,7 @@ permalink: /mcamc/register
 ---
 
 ## Registration Opens Soon!
-<!--
+
 ### I am registering as a/an...
 
 <div style="text-align: center">
@@ -35,4 +35,3 @@ function reg(type) {
   }
 }
 </script>
--->
