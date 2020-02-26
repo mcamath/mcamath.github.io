@@ -66,7 +66,7 @@ We are high school students who want to have fun with mathematics! The MCA Math 
     }
   </style>
 </div>
-
+ 
 
 <script type="text/javascript">
 	function isIE() {
