@@ -31,6 +31,11 @@ meta: |
 
 MCAMC brings an exciting new type of math competition to the middle school audience — one that involves working together as a team with your friends. In contrast to other competitions that only involve working independently, get ready for a day filled with collaboration and action! 
 
+<div style="position:relative;padding-top:56.25%;">
+  <iframe src="https://www.youtube.com/embed/_vdC1vknpTs" frameborder="0" allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+</div>
+
 ## Recent Updates
 **March 31, 2019:** Full exams and results for all teams and individuals from MCAMC 2019 are now available [here](/mcamc/results-2019/).
 
