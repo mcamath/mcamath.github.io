@@ -27,6 +27,13 @@ meta: |
   </div>
 </div>
 
+
+
+<div style = "background-color:#fefec8" >
+<h1 style = "text-align: center"> Important Notice </h1>
+Due to public health concerns and given the current situation, MCAMC 2020 will be postponed until further notice. We are currently in the process of finding a new suitable date and will notify all registered parties as soon as we find one. We will try to avoid canceling if at all possible. Registration will still remain open, but payment will not be required until a new date is announced. We appreciate your patience and understanding - please stay safe and keep yourselves healthy in the meantime! 
+</div>
+
 ## What is MCAMC?
 
 MCAMC brings an exciting new type of math competition to the middle school audience — one that involves working together as a team with your friends. In contrast to other competitions that only involve working independently, get ready for a day filled with collaboration and action! 
@@ -49,19 +56,19 @@ MCAMC brings an exciting new type of math competition to the middle school audie
   </tr>
   <tr>
     <td>Registration Closes</td>
-    <td>March 21, 2020</td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>Payment Received By</td>
-    <td>March 27, 2020</td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>Competition Date</td>
-    <td>April 4, 2020</td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>Full Results Uploaded</td>
-    <td>April 5, 2020</td>
+    <td>TBD</td>
   </tr>
 </table>
 </div>
