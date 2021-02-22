@@ -2,7 +2,7 @@
 layout: default
 title: MCAMC
 permalink: /mcamc/
-meta: | 
+meta: |
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
@@ -31,12 +31,12 @@ meta: |
 
 <div style = "background-color:#fefec8" >
 <h1 style = "text-align: center"> Important Notice </h1>
-Due to public health concerns and given the current situation, MCAMC 2020 will be postponed until further notice. We are currently in the process of finding a new suitable date and will notify all registered parties as soon as we find one. We will try to avoid canceling if at all possible. Registration will still remain open, but payment will not be required until a new date is announced. We appreciate your patience and understanding - please stay safe and keep yourselves healthy in the meantime! 
+Due to public health concerns and given the current situation, MCAMC 2020 will be postponed until further notice. We are currently in the process of finding a new suitable date and will notify all registered parties as soon as we find one. We will try to avoid canceling if at all possible. Registration will still remain open, but payment will not be required until a new date is announced. We appreciate your patience and understanding - please stay safe and keep yourselves healthy in the meantime!
 </div>
 
 ## What is MCAMC?
 
-MCAMC brings an exciting new type of math competition to the middle school audience — one that involves working together as a team with your friends. In contrast to other competitions that only involve working independently, get ready for a day filled with collaboration and action! 
+MCAMC brings an exciting new type of math competition to the middle school audience — one that involves working together as a team with your friends. In contrast to other competitions that only involve working independently, get ready for a day filled with collaboration and action!
 
 <div style="position:relative;padding-top:56.25%;">
   <iframe src="https://www.youtube.com/embed/_vdC1vknpTs" frameborder="0" allowfullscreen
@@ -52,7 +52,7 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 <table>
   <tr>
     <td>Registration Opens</td>
-    <td>January 15, 2020</td>
+    <td>February 15, 2020</td>
   </tr>
   <tr>
     <td>Registration Closes</td>
@@ -109,21 +109,21 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 </div>
 
 ## Format and Rules
-Form teams of 4-6 students from your school in grades 6-8 and compete together! MCAMC is structured into 3 rounds, each round lasting 1 hour. 
+Form teams of 4-6 students from your school in grades 6-8 and compete together! MCAMC is structured into 3 rounds, each round lasting 1 hour.
 
 ### Individual Round
 The Individual Round comes first and is the most traditional of the 3 rounds. There are 20 questions spanning various topics. The questions will be similar in difficulty to the AMC 8.
 
 ### Team Round
-The Team Round comes second, and you will be working within your team of 4-6 students to solve another 20 questions, but now with a twist! This time, all 20 questions will be related to one topic — a topic that you've probably never seen before. We will provide enough background information and guidance to help you solve these 20 questions, so be prepared to learn something new. 
+The Team Round comes second, and you will be working within your team of 4-6 students to solve another 20 questions, but now with a twist! This time, all 20 questions will be related to one topic — a topic that you've probably never seen before. We will provide enough background information and guidance to help you solve these 20 questions, so be prepared to learn something new.
 
 ### Live Round
 The Live Round comes last, and you will again be working within your team. The style of the questions will be similar to that of the Individual Round, with a slight difficulty increase because you will be working as a team. Questions will come in sets of 3, and there are 8 sets of questions. The difficulty increases every set.
 
-It is called the Live Round because this round will be scored in real-time! All teams gather in large rooms, where several tables will be set up with graders and questions. When the round starts, each team sends one person to pick up the first set of questions and then return back to their team. The team works together to solve these 3 questions, and when the team is done, they send someone to submit their answers and recieve the next set of questions. Answers may not be changed after they are submitted, and answers will be graded on the spot, with the results immediately displayed on screens and projectors around the room. 
+It is called the Live Round because this round will be scored in real-time! All teams gather in large rooms, where several tables will be set up with graders and questions. When the round starts, each team sends one person to pick up the first set of questions and then return back to their team. The team works together to solve these 3 questions, and when the team is done, they send someone to submit their answers and recieve the next set of questions. Answers may not be changed after they are submitted, and answers will be graded on the spot, with the results immediately displayed on screens and projectors around the room.
 
 ### Scoring
-We designed our scoring system to give more points to harder questions, as well as to prevent ties. Each person's individual score comes from the Individual Round, while the team overall score depends on the average of Individual Round scores, the Team Round score, and the Live Round score, with each component equally important. 
+We designed our scoring system to give more points to harder questions, as well as to prevent ties. Each person's individual score comes from the Individual Round, while the team overall score depends on the average of Individual Round scores, the Team Round score, and the Live Round score, with each component equally important.
 
 {: .question}
 **Show scoring specifics**
@@ -176,7 +176,7 @@ Both individual awards and team awards will be given. Please stay tuned for deta
 **Can you describe the overall registration process for schools and other organizations?**
 
 {: .answer}
-Each organization submits one registration form. The organization will be asked to designate a coach who will receive communications from MCAMC, and to provide basic information about each student participating. Please see the payment section for payment details. If you have any other questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com). 
+Each organization submits one registration form. The organization will be asked to designate a coach who will receive communications from MCAMC, and to provide basic information about each student participating. Please see the payment section for payment details. If you have any other questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com).
 
 {: .question}
 **Can I register as individual without a team?**  
@@ -189,7 +189,7 @@ Yes! If your school is not participating in MCAMC, you can register as individua
 **What are the exact eligibility requirements to participate in MCAMC?**  
 
 {: .answer}
-Students must be in grade 8 or below. Grade 9 students *may not* participate, even if your middle school contains grade 9. Younger students *may* participate, but the difficulty of the competition stays the same. Additionally, homeschooled students *may* participate. There are no location requirements. 
+Students must be in grade 8 or below. Grade 9 students *may not* participate, even if your middle school contains grade 9. Younger students *may* participate, but the difficulty of the competition stays the same. Additionally, homeschooled students *may* participate. There are no location requirements.
 
 {: .question}
 **Can organizations other than schools form teams?**  
@@ -209,7 +209,7 @@ Just a writing utensil is good! We will provide scrap paper and anything else yo
 **Can parents and teachers stay?**  
 
 {: .answer}
-Due to space limitations, up to one adult per team can stay. We encourage at least one adult per organization/school to stay. For students registering individually, one adult per student may stay. 
+Due to space limitations, up to one adult per team can stay. We encourage at least one adult per organization/school to stay. For students registering individually, one adult per student may stay.
 
 {: .question}
 **Where is parking? Where is the drop-off location?**  
@@ -282,11 +282,11 @@ Please contact [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com) with yo
   function hideShow(i) {
     display = document.getElementsByClassName("answer")[i].style.display;
     document.getElementsByClassName("answer")[i].style.display = display ? "" : "none";
-    
+
     questionHTML = document.getElementsByClassName("question")[i].innerHTML;
     document.getElementsByClassName("question")[i].innerHTML = (questionHTML[48] === 'r') ? questionHTML.replace("_right", "_down") : questionHTML.replace("_down", "_right");
   }
-  
+
   function expandAll() {
     for (let i = 0; i < questions.length; i++) {
       document.getElementsByClassName("answer")[i].style.display = "";
@@ -294,7 +294,7 @@ Please contact [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com) with yo
       document.getElementsByClassName("question")[i].innerHTML = questionHTML.replace("_right", "_down");
     }
   }
-  
+
   function collapseAll() {
     for (let i = 0; i < questions.length; i++) {
         document.getElementsByClassName("answer")[i].style.display = "none";
