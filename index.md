@@ -19,7 +19,7 @@ layout: default
 
 <div class="banner main-banner">
 	<div class="banner-cont main-banner-cont">
-	<a href="/mcamc"><img src="/images/mcamc-bkg-large-2021" class="main-banner-img"></a>
+	<a href="/mcamc"><img src="/images/mcamc-bkg-large-2021.svg" class="main-banner-img"></a>
 	<div class="main-banner-overlay">
 		<h1 class="main-banner-title"><a href="/mcamc">Middlesex County Academy Math Competition</a></h1>
 		<!--<p class="main-banner-text">Saturday, April 4, 2020</p>-->
