@@ -19,7 +19,7 @@ layout: default
 
 <div class="banner main-banner">
 	<div class="banner-cont main-banner-cont">
-	<a href="/mcamc"><img src="/images/mcamc-bkg-large.svg" class="main-banner-img"></a>
+	<a href="/mcamc"><img src="/images/mcamc-bkg-large-2021" class="main-banner-img"></a>
 	<div class="main-banner-overlay">
 		<h1 class="main-banner-title"><a href="/mcamc">Middlesex County Academy Math Competition</a></h1>
 		<!--<p class="main-banner-text">Saturday, April 4, 2020</p>-->
@@ -66,16 +66,15 @@ We are high school students who want to have fun with mathematics! The MCA Math 
     }
   </style>
 </div>
- 
+
 
 <script type="text/javascript">
 	function isIE() {
 	  ua = navigator.userAgent;
 	  var is_ie = ua.indexOf("MSIE ") > -1 || ua.indexOf("Trident/") > -1;
-	  return is_ie; 
+	  return is_ie;
 	}
 	if (isIE()) {
 		alert("Internet Explorer is not officially supported by this website. Although most elements should work, consider using Google Chrome, Microsoft Edge, or Mozilla Firefox for best compatibility.")
 	}
 </script>
-

@@ -17,7 +17,7 @@ meta: |
 
 <div class="banner main-banner">
   <div class="banner-cont main-banner-cont">
-  <a href="/mcamc"><img src="/images/mcamc-bkg-large.svg" class="main-banner-img"></a>
+  <a href="/mcamc"><img src="/images/mcamc-bkg-large-2021" class="main-banner-img"></a>
   <div class="main-banner-overlay">
     <h1 class="main-banner-title"><a href="/mcamc">Middlesex County Academy Math Competition</a></h1>
     <div class="banner-btn-cont">
