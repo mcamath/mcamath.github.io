@@ -36,7 +36,7 @@ Due to public health concerns and given the current situation, MCAMC 2020 will b
 
 ## What is MCAMC?
 
-MCAMC brings an exciting new type of math competition to the middle school audience — one that involves working together as a team with your friends. In contrast to other competitions that only involve working independently, get ready for a day filled with collaboration and action!
+MCAMC brings an exciting new type of math competition to the middle school audience — one that involves working together as a team with your friends. In contrast to other competitions that only involve working independently, get ready for a day filled with collaboration and action! It will be held virtually on April 17th, likely over Zoom.
 
 <div style="position:relative;padding-top:56.25%;">
   <iframe src="https://www.youtube.com/embed/_vdC1vknpTs" frameborder="0" allowfullscreen
@@ -52,23 +52,23 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 <table>
   <tr>
     <td>Registration Opens</td>
-    <td>February 15, 2020</td>
+    <td>March 1, 2021</td>
   </tr>
   <tr>
     <td>Registration Closes</td>
-    <td>TBD</td>
+    <td>April 1, 2021</td>
   </tr>
   <tr>
     <td>Payment Received By</td>
-    <td>TBD</td>
+    <td>April 10, 2021</td>
   </tr>
   <tr>
     <td>Competition Date</td>
-    <td>TBD</td>
+    <td>April 17, 2021</td>
   </tr>
   <tr>
     <td>Full Results Uploaded</td>
-    <td>TBD</td>
+    <td>April 21, 2021</td>
   </tr>
 </table>
 </div>
@@ -94,15 +94,15 @@ MCAMC brings an exciting new type of math competition to the middle school audie
     <td>Team Round</td>
   </tr>
   <tr>
-    <td>11:30 - 12:20</td>
-    <td>Lunch/Activities</td>
+    <td>11:30 - 1:00</td>
+    <td>Lunch Break</td>
   </tr>
   <tr>
-    <td>12:30 - 1:30</td>
+    <td>1:00 - 2:00</td>
     <td>Live Round</td>
   </tr>
   <tr>
-    <td>1:45 - 2:15</td>
+    <td>3:00 - 3:30</td>
     <td>Awards Ceremony</td>
   </tr>
 </table>
@@ -115,12 +115,12 @@ Form teams of 4-6 students from your school in grades 6-8 and compete together! 
 The Individual Round comes first and is the most traditional of the 3 rounds. There are 20 questions spanning various topics. The questions will be similar in difficulty to the AMC 8.
 
 ### Team Round
-The Team Round comes second, and you will be working within your team of 4-6 students to solve another 20 questions, but now with a twist! This time, all 20 questions will be related to one topic — a topic that you've probably never seen before. We will provide enough background information and guidance to help you solve these 20 questions, so be prepared to learn something new.
+The Team Round comes second, and you will be working within your team of 4-6 students in a breakout room to solve another 20 questions, but now with a twist! This time, all 20 questions will be related to one topic — a topic that you've probably never seen before. We will provide enough background information and guidance to help you solve these 20 questions, so be prepared to learn something new.
 
 ### Live Round
 The Live Round comes last, and you will again be working within your team. The style of the questions will be similar to that of the Individual Round, with a slight difficulty increase because you will be working as a team. Questions will come in sets of 3, and there are 8 sets of questions. The difficulty increases every set.
 
-It is called the Live Round because this round will be scored in real-time! All teams gather in large rooms, where several tables will be set up with graders and questions. When the round starts, each team sends one person to pick up the first set of questions and then return back to their team. The team works together to solve these 3 questions, and when the team is done, they send someone to submit their answers and recieve the next set of questions. Answers may not be changed after they are submitted, and answers will be graded on the spot, with the results immediately displayed on screens and projectors around the room.
+It is called the Live Round because this round will be scored in real-time! Teams will recieve one set of 3 at a time and when the team is done with a set, they will submit their answers and receive the next set of questions. Answers may not be changed after they are submitted, and answers will be graded on the spot, with the results immediately displayed online.
 
 ### Scoring
 We designed our scoring system to give more points to harder questions, as well as to prevent ties. Each person's individual score comes from the Individual Round, while the team overall score depends on the average of Individual Round scores, the Team Round score, and the Live Round score, with each component equally important.
@@ -144,25 +144,7 @@ Both individual awards and team awards will be given. Please stay tuned for deta
 
 [Sample Answers](https://www.mcamath.com/pdf/Sample%20Answers.pdf)
 
-## Location
-<div class="mapouter">
-  <div class="gmap_canvas">
-    <iframe height="400" width="1000" id="gmap_canvas" src="https://maps.google.com/maps?q=100%20technology%20drive%2C%20edison%20nj&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-  </div>
-  <style>
-    .mapouter {
-      text-align: right;
-    }
-    .gmap_canvas {
-      overflow: hidden;
-      background: none !important;
-    }
-    iframe {
-      display: block;
-      width: 100%;
-    }
-  </style>
-</div>
+
 
 ## FAQ
 <div class="cwrapper">
