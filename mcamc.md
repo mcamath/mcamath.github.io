@@ -182,22 +182,19 @@ Yes! Any team from anywhere may participate, including but not limited to enrich
 ### Day of the Competition
 
 {: .question}
-**What should I bring?**  
+**What should I have with me?**  
 
 {: .answer}
-Just a writing utensil is good! We will provide scrap paper and anything else you might need. Calculators, protractors, and other aids are not permitted. We will regularly announce the time, but if you wish, a (non-smart) watch is also permitted.
+You will need scrap paper and a writing utensil. You will also need a working camera and microphone. A calculator is allowed but all questions can be solved without the use of a calculator. No other aids are permitted. The time will be regularly announced by your proctor, but if you wish, a (non-smart) watch is also permitted.
+.
 
 {: .question}
-**Can parents and teachers stay?**  
+**How will the competition operate?**  
 
 {: .answer}
-Due to space limitations, up to one adult per team can stay. We encourage at least one adult per organization/school to stay. For students registering individually, one adult per student may stay.
+Competitors will join the zoom, which will be provided at a later date, at the designated time and will be proctored by our volunteers. If possible a parent should also be watching the students at all times to ensure the integrity of the contest.
 
-{: .question}
-**Where is parking? Where is the drop-off location?**  
 
-{: .answer}
-Refering to [this map](https://www.middlesexcc.edu/campus-map/) of Middlesex County College, our high school is building AC, located on the western side of campus. Parking is available in Lots 1 and 2 (not 1B). If you are not parking, students may be dropped off directly in front of our school.
 
 ### Payment
 
@@ -205,25 +202,16 @@ Refering to [this map](https://www.middlesexcc.edu/campus-map/) of Middlesex Cou
 **What does the overall payment process look like?**  
 
 {: .answer}
-In the registration form, the school, organization, or individual will have the ability to preorder pizza and T-shirts. The total amount owed will be displayed before the registration form is submitted. Payment (cash or check made out to Middlesex County Academy) or a guarantee of payment must be mailed to 100 Technology Drive, Edison, NJ 08837 and *received* by the indicated deadline. We will send another email when we recieve your payment or guarantee of payment. We do not accept online payments at this time. If you have any questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com).
+The total amount owed will be displayed before the registration form is submitted. Payment (cash or check made out to Middlesex County Academy) or a guarantee of payment must be mailed to 100 Technology Drive, Edison, NJ 08837 and *received* by the indicated deadline. We will send another email when we recieve your payment or guarantee of payment. We do not accept online payments at this time. If you have any questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com).
 
 {: .question}
-**How much does MCAMC cost? Can I pay at the door?**  
+**How much does MCAMC cost?**  
 
 {: .answer}
-MCAMC costs $10 per student. Payment at the door will not be accepted. Payment must be *received* by mail by the indicated deadline.
+MCAMC costs $5 per student. Payment must be *received* by mail by the indicated deadline.
 
-{: .question}
-**What dining options are available?**  
 
-{: .answer}
-Pizza can be preordered at <span>$</span>12 per large (14-inch) pie. Schools and organizations may only purchase by the pie for the sake of efficiency. Individuals may preorder slices at <span>$</span>2 per slice. If you do not wish to eat pizza, the College Center ([building CC on this map](https://www.middlesexcc.edu/campus-map/)) has a food court. Prices at the food court are around $8 per person. Students must be accompanied by an adult if leaving designated competition areas, and MCAMC will not be held responsible while students are away with an adult.
 
-{: .question}
-**Are there T-shirts?**  
-
-{: .answer}
-Yes! T-shirts are available for $12 if preordered and $15 if bought at the competition. This year's design will be uploaded shortly. We recommend you preorder your T-shirts when registering as not many will be sold the day of the competition.
 
 ### Miscellaneous
 
