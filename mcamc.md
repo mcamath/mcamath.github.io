@@ -29,10 +29,7 @@ meta: |
 
 
 
-<div style = "background-color:#fefec8" >
-<h1 style = "text-align: center"> Important Notice </h1>
-Due to public health concerns and given the current situation, MCAMC 2020 will be postponed until further notice. We are currently in the process of finding a new suitable date and will notify all registered parties as soon as we find one. We will try to avoid canceling if at all possible. Registration will still remain open, but payment will not be required until a new date is announced. We appreciate your patience and understanding - please stay safe and keep yourselves healthy in the meantime!
-</div>
+
 
 ## What is MCAMC?
 
@@ -44,7 +41,7 @@ MCAMC brings an exciting new type of math competition to the middle school audie
 </div>
 
 ## Recent Updates
-**March 31, 2019:** Full exams and results for all teams and individuals from MCAMC 2019 are now available [here](/mcamc/results-2019/).
+
 
 ## Important Dates
 
