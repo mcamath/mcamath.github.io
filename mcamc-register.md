@@ -8,7 +8,7 @@ permalink: /mcamc/register
 ### I am registering as a/an...
 
 <div style="text-align: center">
-<span class="reg-choice" id="reg0" onclick="reg(0)"> ...individual student/parent. </span> 
+<span class="reg-choice" id="reg0" onclick="reg(0)"> ...individual student/parent. </span>
 <span class="reg-choice" id="reg1" onclick="reg(1)"> ...school or organization. </span>
 </div>
 
@@ -25,11 +25,11 @@ function reg(type) {
   document.getElementById("mcamc-registration").style.display = "none";
   if (!choiceMade) {
     if (type === 0) {
-      Cognito.load("forms", { id: "3" });
+      Cognito.load("forms", { id: "6" });
       Cognito.resize();
     }
     if (type === 1) {
-      Cognito.load("forms", { id: "4" });
+      Cognito.load("forms", { id: "5" });
       Cognito.resize();
     }
     choiceMade = true;
