@@ -37,10 +37,7 @@ meta: |
 
 MCAMC brings an exciting new type of math competition to the middle school audience — one that involves working together as a team with your friends. In contrast to other competitions that only involve working independently, get ready for a day filled with collaboration and action! It will be held virtually on April 17th, likely over Zoom.
 
-<div style="position:relative;padding-top:56.25%;">
-  <iframe src="https://www.youtube.com/embed/_vdC1vknpTs" frameborder="0" allowfullscreen
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-</div>
+
 
 ## Recent Updates
 
@@ -143,7 +140,11 @@ Both individual awards and team awards will be given. Please stay tuned for deta
 
 [Sample Answers](https://www.mcamath.com/pdf/Sample%20Answers.pdf)
 
-
+##Last Year's Promotional Video
+<div style="position:relative;padding-top:56.25%;">
+  <iframe src="https://www.youtube.com/embed/_vdC1vknpTs" frameborder="0" allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+</div>
 
 ## FAQ
 <div class="cwrapper">
