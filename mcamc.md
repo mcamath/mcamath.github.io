@@ -192,7 +192,7 @@ You will need scrap paper and a writing utensil. You will also need a working ca
 **How will the competition operate?**  
 
 {: .answer}
-Competitors will join the zoom, which will be provided at a later date, at the designated time and will be proctored by our volunteers. If possible a parent should also be watching the students at all times to ensure the integrity of the contest.
+Competitors will join the zoom, which will be provided at a later date, at the designated time and will be proctored by our volunteers. If possible a parent should also be watching the students at all times to ensure the integrity of the contest. Students will be taking the actual test on an online testing platform.  
 
 
 
@@ -202,13 +202,13 @@ Competitors will join the zoom, which will be provided at a later date, at the d
 **What does the overall payment process look like?**  
 
 {: .answer}
-The total amount owed will be displayed before the registration form is submitted. Payment (cash or check made out to Middlesex County Academy) or a guarantee of payment must be mailed to 100 Technology Drive, Edison, NJ 08837 and *received* by the indicated deadline. We will send another email when we recieve your payment or guarantee of payment. We do not accept online payments at this time. If you have any questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com).
+The total amount owed will be displayed before the registration form is submitted. Information about payment will be posted on the website and emailed to registered teams within the following week. If you have any questions, please contact us at [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com).
 
 {: .question}
 **How much does MCAMC cost?**  
 
 {: .answer}
-MCAMC costs $5 per student. Payment must be *received* by mail by the indicated deadline.
+MCAMC costs $5 per student. Payment must be *received* by the indicated deadline. More information on payments will be posted shortly.
 
 
 
