@@ -232,6 +232,8 @@ Please contact [mcamathleague@gmail.com](mailto:mcamathleague@gmail.com) with yo
 <div class="sponsor-row">
   <div><a href="https://www.youcandothecube.com"><img src="/images/rubiks.svg"></a></div>
   <div><strong>You Can Do The Rubik's Cube</strong><br><a href="https://www.youcandothecube.com">https://www.youcandothecube.com</a></div>
+  <div class="sponsor-row">
+    <div><img src="/images/Wolfram.png"></div>
 </div>
 
 <script type="text/javascript">
