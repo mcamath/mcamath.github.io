@@ -17,7 +17,7 @@ Photos from last year's competition can be found [here.](https://photos.app.goo.
 
 [Live Round](/pdf/MCAMC_2019_Live.pdf)
 
-[Answers]()
+[Answers](/pdf/2019_Answers.pdf)
 
 ## MCAMC 2019 Results
 
