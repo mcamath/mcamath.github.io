@@ -1,11 +1,109 @@
 ---
 layout: default
 title: MCAMC Results 2019
-permalink: /mcamc/results-2019/
+permalink: /mcamc/archive/
 ---
+## MCAMC 2021 Tests
+[Individual Round](/pdf/Individual_2021.pdf)
+
+[Team Round](/pdf/Team_2021.pdf)
+
+[Live Round](/pdf/Live_Round_2021.pdf)
+
+[Answers](/pdf/2021_Answer Key.pdf)
+
+[Individual Round Solutions](/pdf/MCAMC_2021_Individual_Solutions.pdf)
+[Team Round Solutions](/pdf/MCAMC_2021_Team_Solutions.pdf)
+[Live Round Solutions](/pdf/MCAMC_2021_Live_Round_Solutions.pdf)
+
+## MCAMC 2021 Results
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOjVtWb285tpaUTHz_wdG1x9lzsnqNKYM37MkFBY_1bNYp46BRT6F-GdiuKZkxqUWgyrKbaRcz6eeD/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br>
+<pre style="word-wrap: break-word; white-space: pre-wrap; font-family: monospace;">Team ID   Sum of top 3 indiv   Team    Live      Overall
+101	87.11	14.08803803	82	235.435105
+102	34.95	9.05440514	43	112.6445611
+103	91.87	26.82037351	107	300
+104	53.25	8.052877931	39	125.0190044
+105	49.42	4.125614465	87	150.7828038
+106	21.24	6.850147317	17	65.04410266
+107	32.8	17.50292576	58	156.4348501
+108	15.95	6.413839737	16	56.6930315
+109	24.21	8.692824833	32	89.29942977
+110	25.46	9.223028672	11	73.04912398
+111	13.77	1.007194245	6	24.42427759
+112	14.26	0	7	22.06398924
+113	30.21	6.348514569	17	72.90125061
+114	26.4	0	11	39.01663159
+115	20.05	3.091780194	21	53.20198816
+116	21.1	6.68719082	24	70.81439048
+117	32.26	6.68719082	29	87.63488754
+118	38.99	8.622299215	27	100.4464231
+119	16.04	4.745762712	9	43.90876992
+120	17.67	4.697772831	7	43.6314532
+121	21.06	4.577634371	14	53.40687346
+122	16.06	3.975633213	9	41.00336565
+123	49.06	18.92892687	65	186.0958957
+124	43.64	8.314533311	44	120.2259905
+125	9.25	5.365370403	8	25.56339351
+126	0	0	0	#N/A
+127	36.01	10.10596127	20	96.29988293
+128	14.1	7.083629431	3	45.07557779
+129	21.15	10.10596127	6	77.47454459
+130	79.72	10.23149462	87	206.9719427
+131	38.32	6.850147317	39	114.630142
+132	48.78	17.60193461	28	146.1679321
+133	38.17	6.850147317	37	102.1639052
+134	32.09	12.60437597	28	109.0058082
+135	21.36	4.577634371	21	60.27547792
+
+Team ID   Indiv-1 Indiv-2 Indiv-3 Indiv-4 Indiv-5 Indiv-6
+101	32.61	26.04	5.67	28.46	9.53
+102	6.71	5.67	5.67	10.19	10.19	14.57
+103	31.49	30.53	23.74	29.85	21.52	21.66
+104	20.81	13.77	9.93	18.67		
+105		7.46		16.01	25.95
+106	8.12	5.67	3.3	6.23	6.89	3.73
+107	10.96	11.82	5.67	10.02	8.56
+108	1.76	3.73	6.55	5.67		
+109	10.14	5.67	8.4	3.55	2.73
+110	13.26	1.03	9.56	2.64		
+111	5.58	0	3.55	4.64		
+112	1.76	4.76	6.71	1.76	2.79
+113	3.67	5.58	12.21	12.33	5.67	1.88
+114	3.67	5.67	2.73	8.12	8.14	10.14
+115	8.68	5.67	5.67	5.7	1.76	5.67
+116	9	6.43	5.67	2.73	5.67	3.76
+117	11.82	5.67	10.3	6.43	10.14	8.28
+118	10.68	15.48	8.12		3.76	2.73
+119	3.73		3.67	3.76	4.7	7.58
+120	6.23	7.15	0.97	2.76	4.29	3.67
+121	5.67	9.65	5.74	5.58		3.91
+122	4.64		1.82	6.21	0.91
+123	16.36	16.34	8.14	16.36		
+124	9.93	12.6	19.6	2.85	11.44
+125				3.76		
+126				5.49		
+127		12.09	9.91	4.64	14.01	6.24
+128	1.94	6.58	3.76	3.76	2.73
+129	3.76	5.67	7.74	5.33	7.74
+130	22.39	8.14	37.07		20.26	9.89
+131	9.53	19.02	9.65	9.65	7.09	7.91
+132	18.47	15.43	6.73	14.88	6.52	8.62
+133	8.34	14.57	13.41	8.12	10.19	7.74
+134	5.18	13.15	9.23	9.71		
+135	5.67	5.67	10.02	3.76		</pre>
+
+
+
+
+
+
+
+
 ## Photos from MCAMC 2019
 
-Photos from last year's competition can be found [here.](https://photos.app.goo.gl/UGnHDJyqJyXEphAo9)
+Photos from the 2019 competition can be found [here.](https://photos.app.goo.gl/UGnHDJyqJyXEphAo9)
 <div width="100%" padding-top="75%">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/186420391@N05/albums/72157712646773777" title="MCAMC 2019 Participants - Release"><img src="https://live.staticflickr.com/65535/49377814766_31c579086b_k.jpg" width="100%" alt="MCAMC 2019 Participants - Release"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
