@@ -16,7 +16,7 @@ permalink: /mcamc/archive/
 
 [Team Round Solutions](/pdf/MCAMC_2021_Team_Solutions.pdf)
 
-[Live Round Solutions](/pdf/MCAMC_2021_Live_Round_Solutions.pdf)
+[Live Round Solutions](/pdf/MCAMC_2021_Live_Round_Solutions_.pdf)
 
 ## MCAMC 2021 Results
 
