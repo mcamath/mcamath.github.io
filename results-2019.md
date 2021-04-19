@@ -23,7 +23,7 @@ permalink: /mcamc/archive/
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOjVtWb285tpaUTHz_wdG1x9lzsnqNKYM37MkFBY_1bNYp46BRT6F-GdiuKZkxqUWgyrKbaRcz6eeD/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTALCgpeTEHQepAxa0Rb8kSbGJlSEoXG0KUP91ETr_7ncN4Gk5Sq9dVwkouk5trkFstTX96sy_-nk4c/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTALCgpeTEHQepAxa0Rb8kSbGJlSEoXG0KUP91ETr_7ncN4Gk5Sq9dVwkouk5trkFstTX96sy_-nk4c/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Photos from MCAMC 2019
 
